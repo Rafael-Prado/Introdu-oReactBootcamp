@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 
 function App(){
-  return <h1>Hello Prado Systems</h1>
+  return <img src="" whidth="200"/>
 }
 
 export default App;

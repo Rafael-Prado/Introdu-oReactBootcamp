@@ -1,8 +1,9 @@
 import React from 'react';
 import './App.css';
+import TechList from './components/TechList';
 
 function App(){
-  return <img src="" whidth="200"/>
+  return <TechList/>
 }
 
 export default App;
